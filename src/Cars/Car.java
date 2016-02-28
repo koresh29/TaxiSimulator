@@ -21,7 +21,7 @@ import Taxi.TaxiTypes;
         color = c;
         driver = d;
         location = e;
-income = 0;
+        income = 0;
     }
 }
 
